@@ -1,2 +1,2 @@
 # CNN-Headline-WordCloud
-This notebook shows how to use Beautiful Soup as well as the WordCloud library to see what words are most common among CNN contributor headlines.
+This notebook shows how to use Beautiful Soup as well as the WordCloud library to see what words are most common among CNN website headlines.  This actually started out as a sentiment analysis whereby I used the Google Sentiment Analysis API or Language API to provide a sentiment score for each CNN contributor/journalist.  However, I decided to eventually go a different route and I think this is still a neat way to see what types of headlines CNN is putting out there.
